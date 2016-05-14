@@ -2,7 +2,7 @@ package com.javatutorials;
 
 import java.util.*;
 
-public class calculator {
+public class calculator  {
 	public static void main(String[] args){
 	Scanner kbReader = new Scanner(System.in);
 	double fnum, snum, answer;
